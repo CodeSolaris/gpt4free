@@ -15,7 +15,7 @@ VERSION = "0.1.7.8"
 DESCRIPTION = (
     "The official gpt4free repository | various collection of powerful language models"
 )
-
+#add some comments for this project
 # Setting up
 setup(
     name="g4f",
